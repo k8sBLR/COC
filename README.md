@@ -19,6 +19,11 @@ Following guidelines apply to all participants participating in the Kubernetes B
 - Don't share any pirated content in the meetup forums. You can share the content if the license associated with it allows you to do so.
 - Don't communicate any form of profane language or share obscene audio or video.
 
+Following guidelines apply to all speakers participating in the Kubernetes Bangalore Meetup community on any communication forums:
+- Do not present a sales pitch of closed source projects.
+- Do not share any material that is protected under copyrights or pirated.
+- Do not share material that requires payment.
+
 Kubernetes Bangalore Meetup strives to create an inclusive community for everyone interested in Kubernetes technology regardless of their background, ethnicity, colour, race, culture, citizenship, gender, etc. Although communication in the community is mainly in English, being a common denominator language but it is by no means a factor of discrimination.
 
 ## Reporting Greviences
